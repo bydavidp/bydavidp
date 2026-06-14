@@ -75,13 +75,17 @@ Me apasiona construir software bien estructurado, con lógica sólida y código 
 
 ***
 
+---
+
 ### 🐍 Contribuciones
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake.svg">
+    <img alt="Animación de contribuciones tipo snake" src="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ***
 

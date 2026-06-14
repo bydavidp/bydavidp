@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-David%20Palacios-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="mailto:bydavidp@gmail.com">
+  <a href="mailto:jdavidpalaciosv1997@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   &nbsp;

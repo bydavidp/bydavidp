@@ -88,7 +88,3 @@ Me apasiona construir software bien estructurado, con lógica sólida y código 
 </div>
 
 ***
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bydavidp&color=0e75b6&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
-</div>

@@ -1,86 +1,90 @@
-<div align="center">
+[
 
-# David Palacios
+<h1 align="center">Hola, soy David Palacios 👋</h1>
 
-### Estudiante de Ingeniería en Sistemas | C++ | Flask | Python | POO
+<h4 align="center"><em>"Primero entiende el problema. Después escribe el código."</em></h4>
 
-<p>
-  Desarrollo proyectos enfocados en programación orientada a objetos, aplicaciones web
-  y construcción de software con estructura clara, lógica sólida y enfoque práctico.
-</p>
-
-<p>
-  <a href="https://github.com/bydavidp" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-bydavidp-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<p align="center">
+  <a href="https://www.linkedin.com/in/david-palacios" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-David%20Palacios-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <img src="https://img.shields.io/badge/C%2B%2B-Programación%20orientada%20a%20objetos-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Flask-Backend%20web-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  &nbsp;
+  <a href="mailto:bydavidp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  &nbsp;
+  <a href="https://github.com/bydavidp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-bydavidp-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
-</div>
+***
 
----
+### 🧑‍💻 Sobre mí
 
-## Perfil
+Soy estudiante de **Ingeniería en Sistemas** en la **Universidad del Valle**, Tuluá — Colombia.
+Me apasiona construir software bien estructurado, con lógica sólida y código limpio.
 
-Soy estudiante de ingeniería en sistemas, con interés en construir software bien organizado, modular y mantenible. Mi enfoque principal está en C++, programación orientada a objetos, desarrollo web con Flask y aprendizaje continuo en seguridad y diseño de software.[cite:2][cite:4]
+- 🔭 Trabajando en: Proyectos de gestión web con **Flask** y sistemas en **C++**
+- 🌱 Aprendiendo: **POO avanzada**, diseño de software, **seguridad web** y **automatización con IA**
+- 🤖 Explorando: Asistentes de IA tipo Jarvis con Python y modelos locales vía Ollama
+- 🎮 También me interesan: El desarrollo de videojuegos y proyectos prácticos
+- 📬 Contacto: Via Gmail o LinkedIn
 
-Me gusta trabajar proyectos donde pueda entender la lógica completa, estructurar bien las clases, separar responsabilidades y mejorar poco a poco la calidad del código. También valoro mucho la claridad técnica y la presentación profesional de mis repositorios.[cite:4][cite:10]
+***
 
----
+### 🛠️ Lenguajes & Herramientas
 
-## Tecnologías
+| C++ & POO | Backend Web | Frontend | Bases de Datos | Herramientas | Seguridad & OS |
+|:-----------:|:------------:|:--------:|:--------------:|:------------:|:--------------:|
+|  |  |  |  |  |  |
+| OOP/POO |  |  |  |  |  |
+| Herencia |  | JavaScript | SQLAlchemy |  |  |
+| Polimorfismo | Django | — | SQLite | Terminal | Ollama / AI Tools |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,flask,php,html,css,mysql,git,github,linux,vscode" alt="Tecnologías y herramientas" />
-</p>
+***
 
----
+### 📊 Estadísticas de GitHub
 
-## Áreas de trabajo
-
-- Desarrollo de programas en C++ con encapsulamiento, herencia, abstracción y polimorfismo.[cite:8]
-- Aplicaciones web con Flask, organización modular y trabajo con base de datos.[cite:10][cite:2]
-- Automatización y herramientas en Python para procesos prácticos de desarrollo.[cite:2]
-- Interés en seguridad web, análisis técnico y mejora de software.[cite:6]
-
----
-
-## Actualmente
-
-- Fortaleciendo mis bases en POO y diseño de clases en C++.[cite:8]
-- Construyendo proyectos web con Flask y estructura profesional por módulos.[cite:2][cite:10]
-- Mejorando mi flujo de desarrollo con diseño, organización, implementación y verificación.[cite:4]
-- Explorando ideas de asistentes y herramientas más avanzadas para automatización.[cite:5]
-
----
-
-## Estadísticas
+> **Nota:** Los lenguajes mostrados reflejan el código publicado en mis repos, no mi nivel de dominio de cada tecnología.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bydavidp&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bydavidp&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=bydavidp&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bydavidp&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
 
 </div>
 
----
+<div align="center">
 
-## Enfoque de desarrollo
 
-```txt
-Diseño → Estructura → Implementación → Pruebas → Mejora continua
-```
 
-Busco que cada proyecto no solo funcione, sino que también tenga una base clara, entendible y escalable. Me interesa que el código quede presentable tanto para evaluación académica como para portafolio técnico.[cite:4][cite:10]
+</div>
 
----
+***
 
-## Contacto
+### 🚀 Proyectos destacados
 
-<p>
-  <a href="https://github.com/bydavidp" target="_blank" rel="noopener noreferrer">
-    Ver mi perfil de GitHub
-  </a>
-</p>
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| 🏢 **FMV Sistema** | Sistema web de gestión empresarial modular con autenticación, clientes, servicios y finanzas | Flask · Python · SQLAlchemy · Bootstrap |
+| 📷 **El Ciego (C++)** | Sistema de préstamo de equipos fotográficos con POO completa: herencia, polimorfismo y abstracción | C++ · CMake · OOP |
+| 🤖 **Jarvis AI** | Prototipo de asistente de IA por consola con modelos locales vía Ollama | Python · Ollama · CLI |
+| 🔐 **Scanner Web** | Herramienta de análisis de vulnerabilidades web que detecta tipo de sitio y genera reporte de seguridad | Python · Flask · Seguridad Web |
+
+***
+
+### 🐍 Contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake.svg">
+</picture>
+
+***
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bydavidp&color=0e75b6&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
+</div>

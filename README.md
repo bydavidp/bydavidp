@@ -120,7 +120,27 @@ Me apasiona construir software bien estructurado, con lógica sólida y código 
 
 ***
 
-## 🐍 Actividad de Contribuciones
+### 🐍 Actividad de Contribuciones
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:b71c1c&height=90&section=header&text=Contribution%20Activity&fontSize=28&fontColor=ffffff" />
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bydavidp&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <em>Construyendo código todos los días, paso a paso.</em>
+</p>
 
 <div align="center">
   <picture>

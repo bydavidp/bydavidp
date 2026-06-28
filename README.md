@@ -50,49 +50,53 @@ Hábito   : Coding nocturno, terminal abierto y repos en constante mejora.
 
 ---
 
-## 🛠 Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
 ### Lenguajes
-
-- C++ (POO y diseño de clases)
-- Python (backend, scripts, automatización)
-- JavaScript (frontend básico, interacción en navegador)
-- SQL (consultas, modelado, ORM con SQLAlchemy)
-- HTML / CSS (estructuras y estilos responsivos)
-- PHP (bases de backend tradicional)
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ### Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
 
-- Flask (enrutamiento, templates, autenticación, APIs)
-- SQLAlchemy (modelos, relaciones, consultas)
-- Django (conocimientos base del framework)
-- Node.js (scripts y pequeños servicios)
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white"/>
+</p>
 
-### Frontend y UI
+### Bases de Datos
+<p>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-- Bootstrap (componentes y layouts responsivos)
-- Jinja2 (renderizado de vistas y lógica en templates)
+### Herramientas & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
+</p>
 
-### Bases de datos
-
-- SQLite (proyectos académicos y prototipos)
-- MySQL (entornos más estructurados)
-
-### Herramientas y entorno
-
-- Git y GitHub (flujo con ramas, PRs y proyectos personales)
-- Docker (contenedores básicos para servicios)
-- Linux / WSL (entorno de desarrollo en terminal)
-- VS Code / CLion (IDE principal para C++ y Python)
-- CMake (configuración y build de proyectos C++)
-
-### Seguridad e IA
-
-- Kali Linux y OWASP (introducción a herramientas y buenas prácticas)
-- Ollama (modelos locales de IA)
-- Asistentes de IA (Claude y otros) como apoyo al desarrollo diario
-
----
+### Seguridad & IA
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+</p>
 
 ## 📁 Proyectos seleccionados
 

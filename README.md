@@ -1,174 +1,134 @@
-<!-- HEADER PROFESIONAL ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:020617&height=200&section=header&text=David%20Palacios&fontSize=45&fontAlignY=40&fontColor=f9fafb&animation=fadeIn&desc=Software%20Developer%20%7C%20Ingenier%C3%ADa%20en%20Sistemas&descAlignY=65&descSize=18" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:0a192f,100:0d1117&text=David%20Palacios&reversal=false&fontColor=2ea043&fontSize=60&desc=Ingenier%C3%ADa%20en%20Sistemas%20%7C%20Flask%20%7C%20C%2B%2B%20%7C%20Ciberseguridad&descSize=16&descAlignY=65">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:ffffff,50:0a192f,100:ffffff&text=David%20Palacios&reversal=false&fontColor=0a192f&fontSize=60&desc=Ingenier%C3%ADa%20en%20Sistemas%20%7C%20Flask%20%7C%20C%2B%2B%20%7C%20Ciberseguridad&descSize=16&descAlignY=65">
+</picture>
 
-<!-- TYPING EFFECT PROFESIONAL -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Desarrollador+de+software+en+formaci%C3%B3n;Ingenier%C3%ADa+en+Sistemas+-+Universidad+del+Valle;Flask%2C+C%2B%2B%2C+Seguridad+Web%2C+IA;Construyendo+sistemas+claros%2C+seguros+y+mantenibles" alt="Typing SVG" />
-</p>
+<br>
 
-<!-- CONTACTO / PERFIL -->
 <p align="center">
-  <a href="mailto:jdavidpalaciosv1997@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=2EA043&center=true&vCenter=true&width=600&lines=Ingeniero+en+Sistemas+en+formaci%C3%B3n;Flask+%2B+C%2B%2B+%2B+Python;Seguridad+Web+y+OWASP;Asistente+IA+con+Ollama;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
   </a>
-  &nbsp;
-  <a href="https://github.com/bydavidp" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-bydavidp-030712?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=bydavidp&style=for-the-badge&color=1f2937&label=Visitas" />
 </p>
 
 ---
 
-## 👨‍💻 Perfil
+## 👤 Perfil
 
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
-
-Soy estudiante de **Ingeniería en Sistemas** en la **Universidad del Valle** (Cali, Colombia) y desarrollador de software en formación.  
-Me interesa construir aplicaciones web bien diseñadas, con foco en arquitectura, seguridad y calidad de código.
-
-```text
-Rol        : Desarrollador backend / fullstack en formación
-Universidad: Universidad del Valle – Ingeniería en Sistemas
-Ubicación  : Cali, Valle del Cauca, Colombia
-
-Enfoque    : Flask · C++ · Bases de datos · Seguridad web · IA aplicada
-Filosofía  : "Primero entiende el problema. Después escribe el código."
-Hábito     : Coding nocturno, terminal abierto y repos en constante mejora.
-```
+Soy **David Palacios**, estudiante de **Ingeniería en Sistemas** en la **Universidad del Valle**, Cali, Colombia. Me apasiona construir soluciones de *backend* robustas con **Flask** y **C++**, explorar la **seguridad web** con herramientas como **Kali Linux** y **OWASP**, y desarrollar asistentes de IA tipo *Jarvis* con **Python** y **Ollama**. Creo firmemente en el software bien estructurado, limpio y con propósito.
 
 ---
 
-## 🚀 Actualmente trabajando en
+## 🔭 Actualmente trabajando en
 
-- Sistemas de gestión web con **Flask** y **SQLAlchemy** orientados a empresas pequeñas.
-- Mejora de proyectos en **C++** aplicando POO avanzada y patrones de diseño básicos.
-- Herramientas de **seguridad web** para análisis de sitios y generación de reportes.
-- Asistente de IA tipo Jarvis con **Python** + modelos locales vía **Ollama**.
-- Prototipos de plataformas de contenido (streaming, labs interactivos) como proyectos personales.
+- Sistemas de gestión empresarial con **Flask / SQLAlchemy**
+- Proyectos en **C++** con Programación Orientada a Objetos
+- Herramientas de **seguridad web** (escáneres, análisis, reportes)
+- Asistente **Jarvis** con **Ollama** y Python
+- Prototipos de plataformas de **streaming** y laboratorios
 
 ---
 
-## 💬 En qué puedo ayudar
+## 🤝 En qué puedo ayudar
 
-- Desarrollo de **APIs** y backend con Flask.
-- Modelado de datos y consultas con **SQL / SQLAlchemy**.
-- Proyectos académicos en **C++** con POO.
-- Ideas de automatización con **IA** y asistentes locales.
-- Primeros pasos en **seguridad web** y pruebas básicas de vulnerabilidades.
+- **Backend con Flask** – APIs, autenticación, modelos relacionales
+- **SQL / SQLAlchemy** – Consultas optimizadas, migraciones, diseño de BD
+- **Proyectos en C++** – POO, herencia, polimorfismo, plantillas
+- **Automatización con IA** – Integración de modelos locales con Ollama
+- **Primeros pasos en seguridad web** – OWASP Top 10, análisis básico
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
 ### Lenguajes
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-333333?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Frontend
-<p>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white"/>
-</p>
 
-### Bases de Datos
-<p>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+
+### Bases de datos
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Herramientas & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
-</p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 ### Seguridad & IA
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-</p>
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 ---
 
-## 📁 Proyectos seleccionados
+## 📌 Proyectos seleccionados
 
-> Algunos proyectos representativos de lo que estoy construyendo y aprendiendo.
-
-| Proyecto | Rol y objetivo | Stack |
-|---------|----------------|-------|
-| **FMV Sistema** | Sistema web de gestión empresarial modular (autenticación, clientes, servicios, finanzas). Foco en arquitectura limpia y flujo de datos. | Flask · Python · SQLAlchemy · Bootstrap |
-| **El Ciego (C++)** | Sistema de préstamo de equipos fotográficos con POO completa (herencia, polimorfismo, abstracción). Proyecto académico orientado a diseño de clases. | C++ · CMake · OOP |
-| **IA-Jarvis** | Asistente de consola tipo Jarvis con modelos locales vía Ollama. Orquestación simple de tareas y comandos. | Python · Ollama · CLI |
-| **Scanner Web** | Herramienta de análisis básico de sitios web, detección de tipo de sitio y reporte de seguridad. | Python · Flask · Seguridad Web |
-| **Streaming Platform** | Prototipo de plataforma de películas/series con integración de anuncios y arquitectura full-stack. | Python · JavaScript · HTML/CSS |
-
-Más proyectos en: [github.com/bydavidp](https://github.com/bydavidp).
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| **FMV Sistema** | Sistema de gestión empresarial modular con autenticación, roles y reportes | Flask, SQLAlchemy, Bootstrap |
+| **El Ciego** | POO en C++ para gestión de préstamos de equipos fotográficos | C++, CMake |
+| **IA-Jarvis** | Asistente de voz/consola con modelos locales vía Ollama | Python, Ollama |
+| **Scanner Web** | Escáner básico de seguridad web con análisis de headers y reporte | Python, Requests, BeautifulSoup |
+| **Streaming Platform** | Prototipo de plataforma de contenido con catálogo y reproducción | Flask, JavaScript, SQLite |
 
 ---
 
 ## 📫 Contacto rápido
 
-- Correo: `jdavidpalaciosv1997@gmail.com`
-- Ciudad: Cali, Valle del Cauca, Colombia
-- GitHub: [github.com/bydavidp](https://github.com/bydavidp)
-- Disponibilidad: Proyectos personales, colaboraciones y prácticas/semilleros.
+- **Correo:** [david.palacios@correounivalle.edu.co](mailto:david.palacios@correounivalle.edu.co)
+- **Ubicación:** Cali, Valle del Cauca, Colombia
+- **GitHub:** [github.com/bydavidp](https://github.com/bydavidp)
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-> Los gráficos reflejan la actividad pública y privada en GitHub, no el nivel absoluto en cada tecnología. [web:60]
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bydavidp&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bydavidp&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bydavidp&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bydavidp&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bydavidp&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Langs" height="180">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bydavidp&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="70%">
 </p>
 
 ---
 
-## 📈 Actividad de contribuciones
+## 🐍 Actividad de contribuciones
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake.svg">
-    <img alt="Animación de contribuciones tipo snake" src="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake.svg">
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bydavidp&theme=github-compact&hide_border=true&area=true&color=3B82F6&line=6366F1&point=f9fafb" alt="Contribution Graph" />
-</p>
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bydavidp&theme=github-dark&hide_border=true&area=true&custom_title=Actividad%20reciente" width="100%">
 
 ---
 
-<p align="center">
-  <sub>Desarrollo continuo, aprendiendo y mejorando proyecto a proyecto.</sub>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:020617&height=80&section=footer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:0a192f,100:0d1117&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ffffff,50:0a192f,100:ffffff&section=footer">
+</picture>

@@ -1,13 +1,13 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:0a192f,100:0d1117&text=David%20Palacios&reversal=false&fontColor=2ea043&fontSize=60&desc=Ingenier%C3%ADa%20en%20Sistemas%20%7C%20Flask%20%7C%20C%2B%2B%20%7C%20Ciberseguridad&descSize=16&descAlignY=65">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:ffffff,50:0a192f,100:ffffff&text=David%20Palacios&reversal=false&fontColor=0a192f&fontSize=60&desc=Ingenier%C3%ADa%20en%20Sistemas%20%7C%20Flask%20%7C%20C%2B%2B%20%7C%20Ciberseguridad&descSize=16&descAlignY=65">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&height=260&color=0:020617,50:0f172a,100:020617&text=David%20Palacios&fontColor=f9fafb&fontSize=52&desc=Ingenier%C3%ADa%20en%20Sistemas%20%7C%20Flask%20%7C%20C%2B%2B%20%7C%20Ciberseguridad&descSize=16&descAlignY=70">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=260&color=0:f9fafb,50:e5e7eb,100:f9fafb&text=David%20Palacios&fontColor=111827&fontSize=52&desc=Ingenier%C3%ADa%20en%20Sistemas%20%7C%20Flask%20%7C%20C%2B%2B%20%7C%20Ciberseguridad&descSize=16&descAlignY=70">
 </picture>
 
 <br>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=2EA043&center=true&vCenter=true&width=600&lines=Ingeniero+en+Sistemas+en+formaci%C3%B3n;Flask+%2B+C%2B%2B+%2B+Python;Seguridad+Web+y+OWASP;Asistente+IA+con+Ollama;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Ingeniero+en+Sistemas+en+formaci%C3%B3n;Flask+%2B+C%2B%2B+%2B+Python;Seguridad+Web+y+OWASP;Asistente+IA+con+Ollama;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,7 +15,8 @@
 
 ## 👤 Perfil
 
-Soy **David Palacios**, estudiante de **Ingeniería en Sistemas** en la **Universidad del Valle**, Cali, Colombia. Me apasiona construir soluciones de *backend* robustas con **Flask** y **C++**, explorar la **seguridad web** con herramientas como **Kali Linux** y **OWASP**, y desarrollar asistentes de IA tipo *Jarvis* con **Python** y **Ollama**. Creo firmemente en el software bien estructurado, limpio y con propósito.
+Soy **David Palacios**, estudiante de **Ingeniería en Sistemas** en la **Universidad del Valle**, Cali, Colombia.  
+Me apasiona construir soluciones de backend robustas con **Flask** y **C++**, explorar la **seguridad web** y desarrollar asistentes de IA tipo Jarvis con **Python** y **Ollama**.
 
 ---
 
@@ -31,11 +32,11 @@ Soy **David Palacios**, estudiante de **Ingeniería en Sistemas** en la **Univer
 
 ## 🤝 En qué puedo ayudar
 
-- **Backend con Flask** – APIs, autenticación, modelos relacionales
+- Backend con **Flask** – APIs, autenticación, modelos relacionales
 - **SQL / SQLAlchemy** – Consultas optimizadas, migraciones, diseño de BD
-- **Proyectos en C++** – POO, herencia, polimorfismo, plantillas
-- **Automatización con IA** – Integración de modelos locales con Ollama
-- **Primeros pasos en seguridad web** – OWASP Top 10, análisis básico
+- Proyectos en **C++** – POO, herencia, polimorfismo, plantillas
+- Automatización con **IA** – Integración de modelos locales con Ollama
+- Primeros pasos en **seguridad web** – OWASP Top 10, análisis básico
 
 ---
 
@@ -43,43 +44,43 @@ Soy **David Palacios**, estudiante de **Ingeniería en Sistemas** en la **Univer
 
 ### Lenguajes
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1f2937?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-f59e0b?style=for-the-badge&logo=javascript&logoColor=111827)
+![SQL](https://img.shields.io/badge/SQL-1f2937?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-ef4444?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-2563eb?style=for-the-badge&logo=css3&logoColor=ffffff)
 
 ### Backend & Frameworks
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-333333?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-020617?style=for-the-badge&logo=flask&logoColor=ffffff)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-111827?style=for-the-badge&logo=python&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
+![Django](https://img.shields.io/badge/Django-0b3b2e?style=for-the-badge&logo=django&logoColor=ffffff)
 
 ### Frontend
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-4b5563?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
+![Jinja2](https://img.shields.io/badge/Jinja2-b91c1c?style=for-the-badge&logo=jinja&logoColor=ffffff)
 
 ### Bases de datos
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-0f172a?style=for-the-badge&logo=sqlite&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-1e3a8a?style=for-the-badge&logo=mysql&logoColor=ffffff)
 
 ### Herramientas & DevOps
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-991b1b?style=for-the-badge&logo=git&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-0ea5e9?style=for-the-badge&logo=docker&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-FACC15?style=for-the-badge&logo=linux&logoColor=111827)
+![VS Code](https://img.shields.io/badge/VS_Code-1d4ed8?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![CMake](https://img.shields.io/badge/CMake-0f766e?style=for-the-badge&logo=cmake&logoColor=ffffff)
 
 ### Seguridad & IA
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0f172a?style=for-the-badge&logo=kalilinux&logoColor=ffffff)
+![Ollama](https://img.shields.io/badge/Ollama-020617?style=for-the-badge&logo=ollama&logoColor=ffffff)
+![OWASP](https://img.shields.io/badge/OWASP-020617?style=for-the-badge&logo=owasp&logoColor=ffffff)
 
 ---
 
@@ -89,7 +90,7 @@ Soy **David Palacios**, estudiante de **Ingeniería en Sistemas** en la **Univer
 |----------|-------------|-------|
 | **FMV Sistema** | Sistema de gestión empresarial modular con autenticación, roles y reportes | Flask, SQLAlchemy, Bootstrap |
 | **El Ciego** | POO en C++ para gestión de préstamos de equipos fotográficos | C++, CMake |
-| **IA-Jarvis** | Asistente de voz/consola con modelos locales vía Ollama | Python, Ollama |
+| **IA-Jarvis** | Asistente de consola con modelos locales vía Ollama | Python, Ollama |
 | **Scanner Web** | Escáner básico de seguridad web con análisis de headers y reporte | Python, Requests, BeautifulSoup |
 | **Streaming Platform** | Prototipo de plataforma de contenido con catálogo y reproducción | Flask, JavaScript, SQLite |
 
@@ -129,6 +130,6 @@ Soy **David Palacios**, estudiante de **Ingeniería en Sistemas** en la **Univer
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:0a192f,100:0d1117&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ffffff,50:0a192f,100:ffffff&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:020617,50:0f172a,100:020617&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:f9fafb,50:e5e7eb,100:f9fafb&section=footer">
 </picture>

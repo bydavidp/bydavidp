@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Desarrollador+de+software+en+formaci%C3%B3n;Ingenier%C3%ADa+en+Sistemas+-+Universidad+del+Valle;Flask%2C+C%2B%2B%2C+Seguridad+Web%2C+IA;Construyendo+sistemas+claros%2C+seguros+y+mantenibles" alt="Typing SVG" />
 </p>
 
-<!-- CONTACTO -->
+<!-- CONTACTO / PERFIL -->
 <p align="center">
   <a href="mailto:jdavidpalaciosv1997@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -29,24 +29,34 @@ Soy estudiante de **Ingeniería en Sistemas** en la **Universidad del Valle** (C
 Me interesa construir aplicaciones web bien diseñadas, con foco en arquitectura, seguridad y calidad de código.
 
 ```text
-Rol      : Desarrollador backend / fullstack en formación
-Universidad : Universidad del Valle – Ingeniería en Sistemas
-Ubicación   : Cali, Valle del Cauca, Colombia
+Rol        : Desarrollador backend / fullstack en formación
+Universidad: Universidad del Valle – Ingeniería en Sistemas
+Ubicación  : Cali, Valle del Cauca, Colombia
 
-Enfoque  : Flask · C++ · Bases de datos · Seguridad web · IA aplicada
-Filosofía: "Primero entiende el problema. Después escribe el código."
-Hábito   : Coding nocturno, terminal abierto y repos en constante mejora.
+Enfoque    : Flask · C++ · Bases de datos · Seguridad web · IA aplicada
+Filosofía  : "Primero entiende el problema. Después escribe el código."
+Hábito     : Coding nocturno, terminal abierto y repos en constante mejora.
 ```
 
 ---
 
-## 🔎 Actualmente
+## 🚀 Actualmente trabajando en
 
-- Diseñando sistemas de gestión web con **Flask** y **SQLAlchemy**.
-- Profundizando en **POO en C++** (herencia, polimorfismo, abstracción).
-- Aprendiendo **seguridad web**, conceptos **OWASP** y pentesting básico.
-- Explorando **asistentes de IA** tipo Jarvis con modelos locales vía **Ollama**.
-- Construyendo proyectos personales que mezclan gestión, seguridad y contenido.
+- Sistemas de gestión web con **Flask** y **SQLAlchemy** orientados a empresas pequeñas.
+- Mejora de proyectos en **C++** aplicando POO avanzada y patrones de diseño básicos.
+- Herramientas de **seguridad web** para análisis de sitios y generación de reportes.
+- Asistente de IA tipo Jarvis con **Python** + modelos locales vía **Ollama**.
+- Prototipos de plataformas de contenido (streaming, labs interactivos) como proyectos personales.
+
+---
+
+## 💬 En qué puedo ayudar
+
+- Desarrollo de **APIs** y backend con Flask.
+- Modelado de datos y consultas con **SQL / SQLAlchemy**.
+- Proyectos académicos en **C++** con POO.
+- Ideas de automatización con **IA** y asistentes locales.
+- Primeros pasos en **seguridad web** y pruebas básicas de vulnerabilidades.
 
 ---
 
@@ -98,6 +108,8 @@ Hábito   : Coding nocturno, terminal abierto y repos en constante mejora.
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 </p>
 
+---
+
 ## 📁 Proyectos seleccionados
 
 > Algunos proyectos representativos de lo que estoy construyendo y aprendiendo.
@@ -114,9 +126,18 @@ Más proyectos en: [github.com/bydavidp](https://github.com/bydavidp).
 
 ---
 
+## 📫 Contacto rápido
+
+- Correo: `jdavidpalaciosv1997@gmail.com`
+- Ciudad: Cali, Valle del Cauca, Colombia
+- GitHub: [github.com/bydavidp](https://github.com/bydavidp)
+- Disponibilidad: Proyectos personales, colaboraciones y prácticas/semilleros.
+
+---
+
 ## 📊 Estadísticas de GitHub
 
-> Los gráficos reflejan la actividad pública y privada en GitHub, no el nivel absoluto en cada tecnología.
+> Los gráficos reflejan la actividad pública y privada en GitHub, no el nivel absoluto en cada tecnología. [web:60]
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=bydavidp&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />

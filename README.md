@@ -1,157 +1,249 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Hola,+soy+David+Palacios;Fullstack+Developer;Cybersecurity+Enthusiast;AI+%26+Automation+Lover;Estudiante+de+Ing.+en+Sistemas" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">
-  <samp>&gt; <b>@bydavidp</b> — Construyendo el futuro, un commit a la vez.</samp>
-</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bydavidp&label=Profile+Views&color=00d4ff&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/bydavidp?tab=followers"><img src="https://img.shields.io/github/followers/bydavidp?label=Followers&style=flat-square&color=00d4ff" alt="Followers" /></a>
-  <img src="https://img.shields.io/badge/Univalle-Ingenier%C3%ADa%20en%20Sistemas-00d4ff?style=flat-square" alt="Univalle" />
-  <img src="https://img.shields.io/badge/Cali-Colombia-00d4ff?style=flat-square" alt="Location" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,24,30&height=250&section=header&text=DAVID+PALACIOS&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=@bydavidp+%7C+Fullstack+Developer+%7C+Cybersecurity+%7C+AI&descSize=20&descAlignY=55" alt="Header" />
 </p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2000&pause=800&color=00FFF7&center=true&vCenter=true&width=600&lines=PLAYER+SPAWNED;SYSTEM+BOOTING...;LOADING+SKILLS...;>+HELLO+WORLD;>+MODE%3A+DEVELOPER;>+READY+TO+BUILD" alt="Typing" />
+</div>
 
 <br/>
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="coding animation" />
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" width="25" /> Sobre mí
-
-<samp>
-&nbsp;&nbsp;🎓 Estudiante de <b>Ingeniería en Sistemas</b> en la Universidad del Valle — Cali, Colombia<br/>
-&nbsp;&nbsp;💻 Fullstack Developer apasionado por <b>Python, JS/TS, C++ y Dart</b><br/>
-&nbsp;&nbsp;🔐 Cybersecurity enthusiast — construyo mis propias herramientas de pentesting<br/>
-&nbsp;&nbsp;🤖 Integro <b>IA</b> en todo lo que puedo — mi asistente personal <b>J.A.R.V.I.S.</b> está vivo<br/>
-&nbsp;&nbsp;🏢 Automatizo procesos reales para el negocio familiar con sistemas robustos<br/>
-&nbsp;&nbsp;🎮 Explorando game dev y apps mobile con <b>Flutter</b><br/>
-&nbsp;&nbsp;📅 En GitHub desde <b>marzo 2024</b> — 12 repos y contando<br/>
-</samp>
-
-<br clear="right"/>
-
----
+<!-- ===== PLAYER STATS ===== -->
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" />
-  <b>Proyectos Destacados</b>
+  <pre>
+⚡ PLAYER STATS ⚡
+  </pre>
 </h2>
+
+<br/>
 
 <table align="center">
   <tr>
-    <td width="50%">
-      <h3 align="center">🔥 Fmv-sistema</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <br/>
-        <samp>
-          Sistema de gestión empresarial para <b>Fumigaciones Magistrales</b>.
-          Backend completo con +16 issues trackeados — manejo de clientes,
-          órdenes de fumigación, agenda y operaciones internas.
-          <br/><i>Mi proyecto más grande y profesional.</i>
-        </samp>
-      </p>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/LEVEL-99-00FFF7?style=for-the-badge&logo=level&logoColor=white" alt="Level" />
     </td>
-    <td width="50%">
-      <h3 align="center">🤖 IA-JARVIS</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI-FF4154?style=for-the-badge&logo=openai&logoColor=white" />
-        <br/>
-        <samp>
-          Asistente de IA personal inspirado en <b>J.A.R.V.I.S.</b> de Iron Man.
-          Integración de modelos de lenguaje y automatización inteligente.
-          <br/><i>Porque todo dev necesita su propio Jarvis.</i>
-        </samp>
-      </p>
+    <td align="center" width="300">
+      <img src="https://img.shields.io/badge/CLASS-Fullstack%20Dev-FF1493?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/HP-100-00FF00?style=for-the-badge&logo=heart&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">🛡️ VulnGuard</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Security-008000?style=for-the-badge&logo=hackthebox&logoColor=white" />
-        <br/>
-        <samp>
-          Herramienta de ciberseguridad — scanner/detector de vulnerabilidades web.
-          Complementado con <b>Vulnerability-System</b> para análisis y reportes.
-          <br/><i>Pentesting con herramientas propias.</i>
-        </samp>
-      </p>
+    <td align="center" colspan="3">
+      <img src="https://img.shields.io/badge/FACTION-Universidad%20del%20Valle%20%7C%20Cali%2C%20Colombia-FFD700?style=for-the-badge&logo=googlemaps&logoColor=white" />
     </td>
-    <td width="50%">
-      <h3 align="center">📱 AppLife</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-        <br/>
-        <samp>
-          App móvil desarrollada en <b>Flutter/Dart</b>. Explorando el mundo
-          mobile con una app de productividad y estilo de vida.
-          <br/><i>Fullstack también significa mobile.</i>
-        </samp>
-      </p>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/EXP-12%20Repositories%20%7C%20Mar%202024-00FFF7?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=bydavidp&label=VISITORS&color=FF1493&style=for-the-badge" alt="Visitors" />
     </td>
   </tr>
 </table>
 
----
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" />
-  <b>Stack Tecnológico</b>
-</h2>
-
 <br/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/512b14e34b8b2b3eb4e6a2123e8493d9107417dc/images/go-ahead-little-boi.gif" width="32" />
+  <samp><b>« Estudiante de Ingeniería en Sistemas · Construyendo el futuro, un commit a la vez »</b></samp>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/512b14e34b8b2b3eb4e6a2123e8493d9107417dc/images/go-ahead-little-boi.gif" width="32" />
+</p>
+
+---
+
+<!-- ===== SKILL TREE ===== -->
+
+<h2 align="center">
+  <pre>
+🎮 SKILL TREE 🎮
+  </pre>
+</h2>
+
 <div align="center">
-
-| **Categoría** | **Tecnologías** |
-|---|---|
-| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript) |
-| **Backend & API** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter) |
-| **Automation** | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell) |
-| **Cybersecurity** | ![Pentesting](https://img.shields.io/badge/Pentesting-000000?style=for-the-badge&logo=hackthebox) ![Vulnerability](https://img.shields.io/badge/Vulnerability_Analysis-FF0000?style=for-the-badge) |
-| **Game Dev** | ![C++](https://img.shields.io/badge/C%2B%2B_Game_Dev-00599C?style=for-the-badge&logo=cplusplus) |
-| **AI / LLM** | ![AI_Integration](https://img.shields.io/badge/AI_Integration-FF4154?style=for-the-badge&logo=openai) |
-
+  <table>
+    <tr>
+      <th align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20"/> LENGUAJES</th>
+      <th align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="20"/> FRAMEWORKS</th>
+      <th align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Database.png" width="20"/> DATABASES</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <th align="center" colspan="3"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Lock%20with%20Key.png" width="20"/> SPECIALIZATIONS</th>
+    </tr>
+    <tr>
+      <td align="center" colspan="3">
+        <img src="https://img.shields.io/badge/CYBERSECURITY%20%26%20PENTESTING-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI%20%26%20LLM%20INTEGRATION-FF4154?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/AUTOMATION%20%26%20BUSINESS%20SOLUTIONS-00FF00?style=for-the-badge&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/GAME%20DEV%20(C%2B%2B)-00599C?style=for-the-badge&logo=unrealengine&logoColor=white" />
+        <img src="https://img.shields.io/badge/MOBILE%20(FLUTTER)-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
+<!-- ===== ACTIVE QUESTS ===== -->
+
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" />
-  <b>Estadísticas</b>
+  <pre>
+🔥 ACTIVE QUESTS 🔥
+  </pre>
 </h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🏢 <b>Fmv-sistema</b></h3>
+        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/STATUS-BOSS%20FIGHT-00FF00?style=flat-square" />
+        <img src="https://img.shields.io/badge/ISSUES-16%20open-FFD700?style=flat-square" />
+        <br/><br/>
+        <samp>
+          <b>» Main Quest «</b><br/>
+          Sistema de gestión empresarial para <b>Fumigaciones Magistrales</b>.<br/>
+          Backend Python completo con manejo de clientes,<br/>
+          órdenes de fumigación, agenda y operaciones internas.<br/>
+          <b>3.1 MB</b> de código puro.
+        </samp>
+        <br/><br/>
+        <img src="https://progress-bar.dev/65?title=COMPLETION&width=300&color=00FFF7" />
+      </td>
+      <td align="center" width="50%">
+        <h3>🤖 <b>IA-JARVIS</b></h3>
+        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-FF4154?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/STATUS-LIVE-00FF00?style=flat-square" />
+        <br/><br/>
+        <samp>
+          <b>» Side Quest — Legendary «</b><br/>
+          Asistente de IA personal inspirado en J.A.R.V.I.S.<br/>
+          Integración de modelos de lenguaje, automatización<br/>
+          inteligente y comandos por voz.<br/>
+          <i>« I'm here to help you, sir. »</i>
+        </samp>
+        <br/><br/>
+        <img src="https://progress-bar.dev/45?title=COMPLETION&width=300&color=FF1493" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🛡️ <b>VulnGuard</b></h3>
+        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SECURITY-008000?style=flat-square&logo=hackthebox&logoColor=white" />
+        <br/><br/>
+        <samp>
+          <b>» Security Quest «</b><br/>
+          Scanner y detector de vulnerabilidades web.<br/>
+          Complementado con <b>Vulnerability-System</b><br/>
+          para análisis y reportes automáticos.
+        </samp>
+        <br/><br/>
+        <img src="https://progress-bar.dev/70?title=COMPLETION&width=300&color=00FF00" />
+      </td>
+      <td align="center" width="50%">
+        <h3>📱 <b>AppLife</b></h3>
+        <img src="https://img.shields.io/badge/DART-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <br/><br/>
+        <samp>
+          <b>» Mobile Quest «</b><br/>
+          App móvil Flutter/Dart — productividad<br/>
+          y estilo de vida. Primer proyecto<br/>
+          explorando el mundo mobile.
+        </samp>
+        <br/><br/>
+        <img src="https://progress-bar.dev/30?title=COMPLETION&width=300&color=02569B" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<details align="center">
+  <summary><samp><b>📂 Ver más proyectos</b></samp></summary>
+  <br/>
+  <table>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <b>PaginaWebFMV</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <b>FumiApp</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/PS-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> <b>MicroAct</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <b>Elciego</b></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">🌐 Página web empresarial FMV</td>
+      <td align="center" colspan="2">🎮 Game Dev / Académico</td>
+    </tr>
+  </table>
+</details>
+
+---
+
+<!-- ===== ACHIEVEMENTS & STATS ===== -->
+
+<h2 align="center">
+  <pre>
+🏆 ACHIEVEMENTS & STATS 🏆
+  </pre>
+</h2>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bydavidp&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=16&margin-h=16&title=MultiLanguage,Commit,Stars,Followers,Issues,PullRequest,Repositories" alt="Trophies" />
+</p>
 
 <br/>
 
 <p align="center">
   <a href="https://github.com/bydavidp">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bydavidp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bydavidp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8&hide=html" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bydavidp&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0F&title_color=FF1493&icon_color=00FFF7&text_color=C9D1D9&border_color=00FFF7&count_private=true&include_all_commits=true&custom_title=PLAYER+STATS" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bydavidp&layout=donut&theme=radical&hide_border=true&bg_color=0A0A0F&title_color=00FFF7&text_color=C9D1D9&langs_count=8" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bydavidp&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF4154&currStreakLabel=00D4FF&sideLabels=00D4FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bydavidp&theme=radical&hide_border=true&background=0A0A0F&stroke=00FFF7&ring=FF1493&fire=FFD700&currStreakLabel=00FFF7&sideLabels=00FFF7&dates=C9D1D9" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bydavidp&theme=nord&no-frame=true&column=7&margin-w=8&title=MultiLanguage,Commit,Stars,Followers,Issues,PullRequest,Repositories" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bydavidp&theme=redical&bg_color=0A0A0F&hide_border=true&color=00FFF7&line=FF1493&point=FFD700&area=true&area_color=FF149322&title_color=00FFF7" alt="Activity Graph" />
 </p>
 
 ---
 
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="25" />
-  <b>Gráfico de Contribuciones</b>
+  <pre>
+🐍 CONTRIBUTION SNAKE 🐍
+  </pre>
 </h2>
 
 <br/>
@@ -160,41 +252,78 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake" src="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bydavidp&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=00D4FF&line=00D4FF&point=FF4154&area=true&area_color=00d4ff22" alt="Activity Graph" />
 </p>
 
 ---
 
+<!-- ===== CURRENT STATUS ===== -->
+
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25" />
-  <b>Conectemos</b>
+  <pre>
+🎯 CURRENT STATUS 🎯
+  </pre>
 </h2>
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/bydavidp"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:david@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- Agrega más si tienes: LinkedIn, Twitter, Portfolio, etc. -->
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Notepad.png" width="18"/> WORKING ON</b>
+        <br/><br/>
+        <samp>
+          🔥 Fmv-sistema — Full backend dev<br/>
+          🤖 IA-JARVIS — Version 2.0 upgrade<br/>
+          🛡️ VulnGuard — Adding new scanners
+        </samp>
+      </td>
+      <td align="center" width="50%">
+        <b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="18"/> LEARNING</b>
+        <br/><br/>
+        <samp>
+          🐍 Advanced Python patterns<br/>
+          🛡️ Ethical hacking & pentesting<br/>
+          📱 Flutter & mobile dev
+        </samp>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
+<!-- ===== CONNECT ===== -->
+
+<h2 align="center">
+  <pre>
+🌐 CONTACT / MULTIPLAYER 🌐
+  </pre>
+</h2>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/bydavidp"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:jdavidpalaciosv1997@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=web&logoColor=white" /></a>
+</div>
+
+<br/>
+
 <h3 align="center">
   <samp>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20" />
-    <i>"El código que escribes hoy, es el sistema que corre mañana."</i>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" width="18"/>
+    <i>"El código que escribes hoy es el sistema que corre mañana."</i>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" width="18"/>
   </samp>
 </h3>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,24&height=120&section=footer&text=Gracias%20por%20visitar&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=72" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,24,30&height=200&section=footer&text=GAME+OVER&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65&desc=Thanks+for+playing+&descSize=18&descAlignY=85" />
 </p>

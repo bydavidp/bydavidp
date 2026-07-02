@@ -98,7 +98,7 @@ Me apasiona construir soluciones de backend robustas con **Flask** y **C++**, ex
 
 ## 📫 Contacto rápido
 
-- **Correo:** [david.palacios@correounivalle.edu.co](mailto:david.palacios@correounivalle.edu.co)
+- **Correo:** [jose.david.palacios@correounivalle.edu.co](mailto:jose.david.palacios@correounivalle.edu.co)
 - **Ubicación:** Cali, Valle del Cauca, Colombia
 - **GitHub:** [github.com/bydavidp](https://github.com/bydavidp)
 

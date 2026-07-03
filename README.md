@@ -240,7 +240,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://cdn.jsdelivr.net/gh/bydavidp/bydavidp@output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---

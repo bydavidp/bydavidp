@@ -219,16 +219,50 @@
 
 ---
 
-<details>
-  <summary><h2 style="display: inline">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/ Trophy.png" alt="Trophy" width="28" />
-    Achievements
-  </h2></summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=bydavidp&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=16&margin-h=16&title=MultiLanguage,Commit,Stars,Followers,Issues,PullRequest,Repositories" alt="Trophies" />
-  </div>
-</details>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" />
+  Achievements
+</h2>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Repository%20Scavenger-10%2B%20Repos-FFD700?style=for-the-badge&logo=github&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python%20Specialist-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Security%20Operator-Vulnerability%20Scanner-3FB950?style=for-the-badge&logo=hackthebox&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AI%20Adventurer-J.A.R.V.I.S.%20Builder-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Full%20Stack%20Explorer-6%20Languages-58A6FF?style=for-the-badge&logo=code&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Mobile%20Pioneer-Flutter%20First%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Early%20Adopter-GitHub%20Since%202024-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/ERP%20Architect-Family%20Business%20System-FF8C00?style=for-the-badge&logo=fastapi&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Automation%20Wizard-PowerShell%20Scripter-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 

@@ -230,20 +230,18 @@
   </div>
 </details>
 
-<details>
-  <summary><h2 style="display: inline">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="28" />
-    Contribution Graph
-  </h2></summary>
-  <br/>
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake.svg" />
-      <img alt="Snake animation eating contributions" src="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake.svg" />
-    </picture>
-  </div>
-</details>
+<br/>
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="28" />
+  Contribution Graph
+</h2>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bydavidp/bydavidp/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 

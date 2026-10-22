@@ -250,7 +250,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/%F0%9F%93%A6_REPOS-13%2B-181717?style=for-the-badge&logo=github&logoColor=00F5FF" alt="Repos" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/%F0%9F%93%A6_REPOS-15%2B-181717?style=for-the-badge&logo=github&logoColor=00F5FF" alt="Repos" /></td>
       <td align="center"><img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_SECURITY_TOOLS-3-FF00FF?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Security" /></td>
       <td align="center"><img src="https://img.shields.io/badge/%F0%9F%A4%96_AI_ASSISTANT-J.A.R.V.I.S.-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI" /></td>
       <td align="center"><img src="https://img.shields.io/badge/%F0%9F%93%A1_SELF--HOSTED-cobalt%20%2B%20Tailscale-00F5FF?style=for-the-badge&logo=proxmox&logoColor=black" alt="Self-hosted" /></td>

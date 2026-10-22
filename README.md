@@ -252,7 +252,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bydavidp/bydavidp/profile-3d-contrib/profile-rainbow-animate.svg" alt="3D Contributions" />
+  <img src="https://raw.githubusercontent.com/bydavidp/bydavidp/profile-3d-contrib/profile-3d-contrib/profile-green-animate.svg" alt="3D Contributions" />
 </div>
 
 ---

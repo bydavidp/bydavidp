@@ -240,9 +240,20 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bydavidp&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
-  </a>
+  <table>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/%F0%9F%93%A6_REPOS-13%2B-181717?style=for-the-badge&logo=github&logoColor=00F5FF" alt="Repos" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_SECURITY_TOOLS-3-FF00FF?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Security" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/%F0%9F%A4%96_AI_ASSISTANT-J.A.R.V.I.S.-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/%F0%9F%93%A1_SELF--HOSTED-cobalt%20%2B%20Tailscale-00F5FF?style=for-the-badge&logo=proxmox&logoColor=black" alt="Self-hosted" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%A2_ERP-IN%20PRODUCTION-39FF14?style=for-the-badge&logo=server&logoColor=black" alt="ERP" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/%F0%9F%92%BB_LANGUAGES-6-58A6FF?style=for-the-badge&logo=code&logoColor=black" alt="Languages" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/%F0%9F%8E%93_GUILD-UniValle-A855F7?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Guild" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/%F0%9F%90%8D_SNAKE_TAMER-commits%20eaten-8B5CF6?style=for-the-badge&logo=gitlfs&logoColor=white" alt="Snake" /></td>
+    </tr>
+  </table>
 </div>
 
 <br/>

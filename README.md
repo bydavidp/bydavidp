@@ -226,7 +226,33 @@
 <br/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/bydavidp/bydavidp@output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/bydavidp/bydavidp@output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/bydavidp/bydavidp@output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://cdn.jsdelivr.net/gh/bydavidp/bydavidp@output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+## 🏅 TROPHY ROOM
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bydavidp&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
+  </a>
+</div>
+
+<br/>
+
+## 🌐 CONTRIBUTIONS IN 3D
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bydavidp/bydavidp/profile-3d-contrib/profile-rainbow-animate.svg" alt="3D Contributions" />
 </div>
 
 ---

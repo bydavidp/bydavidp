@@ -200,6 +200,14 @@
 
 <br/>
 
+<!-- LEADERBOARD:START -->
+| 🎮 PLAYER | 📦 REPOS | ⭐ STARS | 👥 FOLLOWERS | 🕒 LAST SYNC |
+|:---:|:---:|:---:|:---:|:---:|
+| **bydavidp** | 15 | 1 | 1 | 22 Oct 2026 22:00 UTC |
+
+*⚡ Live stats — auto-updated by GitHub Actions every 6 hours*
+<!-- LEADERBOARD:END -->
+
 <div align="center">
   <a href="https://github.com/bydavidp">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bydavidp&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=C9D1D9&count_private=true&include_all_commits=true&custom_title=Player+Stats&ring_color=00F5FF" />

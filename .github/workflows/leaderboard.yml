@@ -1,0 +1,55 @@
+name: Update leaderboard
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # cada 6 horas
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar codigo
+        uses: actions/checkout@v4
+
+      - name: Obtener stats y actualizar tabla
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USER: ${{ github.repository_owner }}
+        run: |
+          REPOS=$(gh api "users/$USER" --jq '.public_repos')
+          FOLLOWERS=$(gh api "users/$USER" --jq '.followers')
+          STARS=$(gh api "users/$USER/repos?per_page=100" --jq '[.[].stargazers_count] | add // 0')
+          NOW=$(date -u +"%d %b %Y %H:%M UTC")
+
+          TABLE=$(cat <<EOF
+          | 🎮 PLAYER | 📦 REPOS | ⭐ STARS | 👥 FOLLOWERS | 🕒 LAST SYNC |
+          |:---:|:---:|:---:|:---:|:---:|
+          | **$USER** | $REPOS | $STARS | $FOLLOWERS | $NOW |
+
+          *⚡ Live stats — auto-updated by GitHub Actions every 6 hours*
+          EOF
+          )
+
+          awk -v table="$TABLE" '
+            /<!-- LEADERBOARD:START -->/ {print; print ""; print table; skip=1; next}
+            /<!-- LEADERBOARD:END -->/ {skip=0}
+            !skip {print}
+          ' README.md > README.tmp && mv README.tmp README.md
+
+      - name: Commit y push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "Sin cambios."
+            exit 0
+          fi
+          git commit -m "chore: update live leaderboard"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
